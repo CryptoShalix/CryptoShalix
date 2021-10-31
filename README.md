@@ -2,7 +2,7 @@
 - 👀 I’m interested in code development and cryptos
 - 🌱 I’m currently learning angular and blockchain
 - 💞️ I’m looking to collaborate on any blockchain project
-- 📫 How to reach me https://twitter.com/adlrg1991
+- 📫 How to reach me https://twitter.com/CryptoShalix
 
 <!---
 Adlrg/Adlrg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
