@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CryptoShalix
-- 👀 I’m interested in code development and cryptos
-- 🌱 I’m currently learning angular and blockchain
+- 👀 I’m interested in code development and bitcoin
+- 🌱 I’m currently learning angular and blockchain development
 - 💞️ I’m looking to collaborate on any blockchain project
 - 📫 How to reach me https://linktr.ee/CryptoShalix
 
